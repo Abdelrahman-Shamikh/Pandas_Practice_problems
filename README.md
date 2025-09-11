@@ -46,9 +46,6 @@ It covers data exploration, slicing, filtering, grouping, and aggregation using 
 Purchase Data (Chinese supermarket transactions)
 
 Titanic Dataset (passenger and survival data)
-### Purchase_Data.csv: supermarket transaction data.
-
-### Titanic.csv: passenger information from the Titanic disaster.
 
 ---
 
