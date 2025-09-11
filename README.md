@@ -177,7 +177,7 @@ This is a learning project, no automated tests included.
  - [X] Task 2: Practice slicing rows/columns with .loc and .iloc.
  - [X] Task 3: Perform filtering and conditional selection.
  - [X] Task 4: Load and analyze Titanic.csv survival data.
- - [X] Task 5: Extend practice with advanced pandas operations (merge, join, pivot).
+ - [ ] Task 5: Extend practice with advanced pandas operations (merge, join, pivot).
 ---
 
 ## Contributing
