@@ -3,7 +3,9 @@
 <!-- HEADER STYLE: CLASSIC -->
 <div align="center">
 
-<img src="readmeai/assets/logos/purple.svg" width="30%" style="position: relative; top: 0; right: 0;" alt="Project Logo"/>
+<p align="center">
+  <img src="https://pandas.pydata.org/static/img/pandas_secondary_white.svg" width="40%" alt="Pandas Logo"/>
+</p>
 
 # PANDAS_PRACTICE
 
