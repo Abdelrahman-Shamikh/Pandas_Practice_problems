@@ -43,9 +43,9 @@
 This project is a practice notebook for learning pandas.
 It covers data exploration, slicing, filtering, grouping, and aggregation using two datasets:
 
-## Purchase_Data.csv: supermarket transaction data.
+# Purchase_Data.csv: supermarket transaction data.
 
-## Titanic.csv: passenger information from the Titanic disaster.
+# Titanic.csv: passenger information from the Titanic disaster.
 
 ---
 
