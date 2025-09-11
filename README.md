@@ -40,18 +40,33 @@
 ---
 
 ## Overview
-This project is a practice notebook for learning pandas.
+This project is a practice notebook for learning pandas, completed during my DEPI internship in Egypt.
 It covers data exploration, slicing, filtering, grouping, and aggregation using two datasets:
 
-# Purchase_Data.csv: supermarket transaction data.
+Purchase Data (Chinese supermarket transactions)
 
-# Titanic.csv: passenger information from the Titanic disaster.
+Titanic Dataset (passenger and survival data)
+### Purchase_Data.csv: supermarket transaction data.
+
+### Titanic.csv: passenger information from the Titanic disaster.
 
 ---
 
 ## Features
 
-<code>❯ REPLACE-ME</code>
+Load CSV datasets into pandas DataFrames.
+
+Inspect structure and data types with .head() and .info().
+
+Slice rows/columns using .loc and .iloc.
+
+Apply conditional filtering (age, survival, product info, etc.).
+
+Perform groupby operations with aggregate statistics.
+
+Analyze Titanic survival patterns by gender, age, and class.
+
+Practice pandas workflows on real datasets.
 
 ---
 
@@ -148,37 +163,27 @@ Build Pandas_Practice from the source and intsall dependencies:
 
 3. **Install the dependencies:**
 
-echo 'INSERT-INSTALL-COMMAND-HERE'
+pip install pandas jupyter
 
 ### Usage
 
 Run the project with:
 
-echo 'INSERT-RUN-COMMAND-HERE'
+jupyter notebook Pandas_Practice.ipynb
 
 ### Testing
 
-Pandas_practice uses the {__test_framework__} test framework. Run the test suite with:
-
-echo 'INSERT-TEST-COMMAND-HERE'
-
----
-
+This is a learning project, no automated tests included.
 ## Roadmap
 
-- [X] **`Task 1`**: <strike>Implement feature one.</strike>
-- [ ] **`Task 2`**: Implement feature two.
-- [ ] **`Task 3`**: Implement feature three.
-
+ - [X] Task 1: Load and explore Purchase_Data.csv.
+ - [X] Task 2: Practice slicing rows/columns with .loc and .iloc.
+ - [X] Task 3: Perform filtering and conditional selection.
+ - [X] Task 4: Load and analyze Titanic.csv survival data.
+ - [X] Task 5: Extend practice with advanced pandas operations (merge, join, pivot).
 ---
 
 ## Contributing
-
-- **💬 [Join the Discussions](https://LOCAL//Pandas_Practice/discussions)**: Share your insights, provide feedback, or ask questions.
-- **🐛 [Report Issues](https://LOCAL//Pandas_Practice/issues)**: Submit bugs found or log feature requests for the `Pandas_Practice` project.
-- **💡 [Submit Pull Requests](https://LOCAL//Pandas_Practice/blob/main/CONTRIBUTING.md)**: Review open PRs, and submit your own PRs.
-
-<details closed>
 <summary>Contributing Guidelines</summary>
 
 1. **Fork the Repository**: Start by forking the project repository to your LOCAL account.
@@ -223,7 +228,7 @@ Pandas_practice is protected under the [LICENSE](https://choosealicense.com/lice
 
 ## Acknowledgments
 
-- Credit `contributors`, `inspiration`, `references`, etc.
+- Special thanks to eng/ Baraa Abu Sallout .
 
 <div align="right">
 
