@@ -4,7 +4,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://pandas.pydata.org/static/img/pandas_secondary_white.svg" width="40%" alt="Pandas Logo"/>
+  <img src="https://tse2.mm.bing.net/th/id/OIP.WprfogNZ-C6vwR5Xe02uxgHaFj?pid=Api&P=0&h=220" width="40%" alt="Pandas Logo"/>
 </p>
 
 # PANDAS_PRACTICE
